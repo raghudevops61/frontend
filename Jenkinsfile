@@ -5,4 +5,4 @@ env.COMPONENT = "frontend"
 env.BUILD_LABEL = "WORKSTATION"
 
 // Library Groovy file
-nginx()
+immutable_nginx()
